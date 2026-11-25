@@ -215,6 +215,7 @@ npm install
 npm run dev         # chạy ở http://localhost:3000, gọi API_BASE_URL/AUTH_BASE_URL trỏ về 2 service trên
 ```
 
+Bước thay đổi thứ 2 của front-end
 Hoặc chạy cả 3 cùng lúc bằng Docker Compose (khuyến nghị vì gần giống môi trường deploy thật):
 
 ```bash
